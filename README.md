@@ -1,4 +1,4 @@
-# pcT-diagram-for-hydrogen-storage code
+# pcT-diagram-for-hydrogen-storage (code)
 
 import numpy as np
 import matplotlib.pyplot as plt
