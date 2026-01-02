@@ -103,5 +103,6 @@
         ax.grid(True, which="both")
         plt.show()
 
+    draw_pct_diagram_for_input_temp()
 
 Main contributor: Jiheon Yoo (Dankook Univ.)
